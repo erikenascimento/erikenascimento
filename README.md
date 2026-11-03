@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Erike 👋
+QA Automation Analyst focused on Playwright, TypeScript, GitHub Actions and Postman.
 
-<!--
-**erikenascimento/erikenascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured work
+- 🧪 cypress-adopet-e2e — E2E suite for a pet-adoption web app
+- 📋 microsoft-junior-qa-capstone — test plan, cases and bug reports
+- 🛍️ meteora — React e-commerce (live demo)
+- 🚧 Coming soon: Playwright + TypeScript framework with CI and API tests
 
-Here are some ideas to get you started:
+## Skills
+Playwright · TypeScript · Cypress · Postman · GitHub Actions · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: https://www.linkedin.com/in/erike-nascimento-a27309237/
