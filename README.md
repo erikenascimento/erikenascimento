@@ -1,14 +1,16 @@
 # Hi, I'm Erike 👋
-QA Automation Analyst focused on Playwright, TypeScript, GitHub Actions and Postman.
+Software QA professional with experience in automated testing, test scenario design, regression testing, and bug investigation. With an educational background in Web Development, I'm interested in software quality, automation, and software engineering.
+Currently expanding my skills in Playwright with TypeScript, GitHub Actions for CI/CD and Postman for API testing.
 
 ## Featured work
-- 🧪 cypress-adopet-e2e — E2E suite for a pet-adoption web app
-- 📋 microsoft-junior-qa-capstone — test plan, cases and bug reports
-- 🛍️ meteora — React e-commerce (live demo)
-- 🚧 Coming soon: Playwright + TypeScript framework with CI and API tests
+- 🚧 Coming soon
 
 ## Skills
-Playwright · TypeScript · Cypress · Postman · GitHub Actions · Git
-
+QA & Automation: Playwright, Cypress, Selenium, Postman
+Languages:  JavaScript, TypeScript, Python, SQL
+Frontend: HTML, CSS, React, Next.js, Tailwind
+Backend: Node.js, NestJS
+Tools: Git, GitHub, Vitest
 ## Contact
 LinkedIn: https://www.linkedin.com/in/erike-nascimento-a27309237/
+nascimento.lf.erike@gmail.com
