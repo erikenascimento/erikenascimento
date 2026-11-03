@@ -15,4 +15,4 @@ Tools: Git, GitHub, Vitest
   
 ## Contact
 LinkedIn: https://www.linkedin.com/in/erike-nascimento-a27309237/  
-nascimento.lf.erike@gmail.com
+Email: nascimento.lf.erike@gmail.com
