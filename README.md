@@ -4,7 +4,7 @@ With an educational background in Web Development, I'm interested in software qu
 Currently expanding my skills in Playwright with TypeScript, GitHub Actions for CI/CD and Postman for API testing.  
   
 ## Featured work
-- 🚧 Coming soon  
+A test automation framework for the Toolshop app using Playwright+ Typescript: https://github.com/erikenascimento/playwright-typescript-framework-toolshop
   
 ## Skills
 QA & Automation: Playwright, Cypress, Selenium, Postman  
