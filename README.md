@@ -9,9 +9,9 @@ A test automation framework for the Toolshop app using Playwright+ Typescript: h
 ## Skills
 QA & Automation: Playwright, Cypress, Selenium, Postman  
 Languages:  JavaScript, TypeScript, Python, SQL  
-Frontend: HTML, CSS, React, Next.js, Tailwind
+Frontend: HTML, CSS, React, Next.js, Tailwind  
 Backend: Node.js, NestJS  
-Tools: Git, GitHub, Vitest  
+Tools: Git, GitHub, Vitest, Jira, Xray, Zephyr, AzureDO  
   
 ## Contact
 LinkedIn: https://www.linkedin.com/in/erike-nascimento-a27309237/  
